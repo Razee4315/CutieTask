@@ -24,12 +24,12 @@ A beautiful and engaging task management app with a cute aesthetic, built with R
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cutie-task.git
+git clone https://github.com/AleenaTahir1/CutieTask.git
 ```
 
 2. Install dependencies:
 ```bash
-cd cutie-task
+cd CutieTask
 npm install
 ```
 
@@ -61,10 +61,6 @@ npm run dev
 - Super Organizer 🌟
 - Daily Champion 🏆
 - Theme Explorer 🎨
-
-## 📱 Screenshots
-
-[Add screenshots here]
 
 ## 🤝 Contributing
 
