@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Patrick+Hand&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-br from-cutie-pink via-white to-cutie-blue min-h-screen font-poppins;
+}
+
+.task-card {
+  @apply bg-white/80 backdrop-blur-sm rounded-xl p-4 shadow-lg hover:shadow-xl transition-all duration-300;
+}
+
+.btn-primary {
+  @apply bg-cutie-pink hover:bg-cutie-peach text-gray-700 font-semibold py-2 px-4 rounded-full transition-all duration-300 shadow-md hover:shadow-lg;
+}
+
+.input-cute {
+  @apply bg-white/70 border-2 border-cutie-pink rounded-lg px-4 py-2 focus:outline-none focus:border-cutie-peach transition-all duration-300;
+}
