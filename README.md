@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Credits
 
-Created with love by Aleena Tahir ✨
+Created with love by Aleena Tahir and Saqlain ✨
